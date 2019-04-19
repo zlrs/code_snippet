@@ -12,11 +12,13 @@
 看起来有点别扭，实际上还可以这样写：
 
 `result = (x, y)[condition]` # condition为真时返回y, 假时返回x
+```python
 In [50]: print((1,0)[True])
 0
 
 In [51]: print((1,0)[False])
 1
+```
 
 作者：nummy
 链接：https://www.jianshu.com/p/fcad6f70feec
