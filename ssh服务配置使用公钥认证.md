@@ -70,8 +70,11 @@ Windows 10:  C:\Users\yourUserName\.ssh
 
 Ubutnu    :  ~/.ssh
 
-## Windows 10 安装 sshd
+## Windows 10 安装 sshd (不适用于Win 7)
 https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse
+
+## Windows 7 安装 sshd
+http://www.mcclellandlegge.com/2017-02-24-installsshd/
 
 ## Reference
 - https://help.ubuntu.com/lts/serverguide/openssh-server.html.zh-CN
